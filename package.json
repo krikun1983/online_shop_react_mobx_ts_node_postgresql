@@ -1,0 +1,21 @@
+{
+  "name": "online_shop_react_mobx_ts_node_postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run start",
+    "server": "cd server && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krikun1983/online_shop_react_mobx_ts_node_postgresql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krikun1983/online_shop_react_mobx_ts_node_postgresql/issues"
+  },
+  "homepage": "https://github.com/krikun1983/online_shop_react_mobx_ts_node_postgresql#readme"
+}
